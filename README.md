@@ -6,6 +6,6 @@
  Последовательная обработка - основная нагрузка на первом процессоре
  <img src="https://github.com/user-attachments/assets/15851041-48e5-448c-a156-054214070f5e"><br>
  Параллельная обработка - нагрузка распредлена на все процессоры
- <img src="">
+ <img src="https://github.com/user-attachments/assets/08e403e6-c51f-4a46-9fcc-bd0344f18c4a">
 
 
